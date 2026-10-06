@@ -16,7 +16,7 @@ const Header = () => {
             <Link to="/contato" className="text-white text-lg no-underline hover:text-[#95ff00] hover:no-underline transition-all">Contato</Link>
             </li>
             <li>
-            <Link to="/jogos" className="text-white text-lg no-underline hover:text-[#95ff00] hover:no-underline transition-all">HOME</Link>
+            <Link to="/jogos" className="text-white text-lg no-underline hover:text-[#95ff00] hover:no-underline transition-all">Jogos</Link>
             </li>
             <li>
             <Link to="/login" className="text-white text-lg no-underline hover:text-[#95ff00] hover:no-underline transition-all">Login</Link>
